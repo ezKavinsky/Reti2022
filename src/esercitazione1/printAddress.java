@@ -25,5 +25,5 @@ public class printAddress {
             System.out.println("Failed to find the host with name " + name);
         }
     }//printRemoteAddress
-    
+
 }//printAddress

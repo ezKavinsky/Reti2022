@@ -1,6 +1,6 @@
 package esercitazione1;
 
-public class Address {
+public class MetodiInetAddress {
 
     /*
 
