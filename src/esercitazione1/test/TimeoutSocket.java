@@ -1,4 +1,4 @@
-package esercitazione1;
+package esercitazione1.test;
 
 public class TimeoutSocket {
 

@@ -1,4 +1,4 @@
-package esercitazione1;
+package esercitazione1.metodi;
 
 import java.net.InetAddress;
 import java.net.Socket;
