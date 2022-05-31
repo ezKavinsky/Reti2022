@@ -24,6 +24,6 @@ public class ClientTest {
       }catch(IOException e){
           System.out.println("Error " + e);
       }
-    }
+    }//main
 
 }//ClientTest
