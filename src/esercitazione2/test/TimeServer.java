@@ -1,6 +1,5 @@
 package esercitazione2.test;
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 import java.util.*;
 import java.net.*;
 
