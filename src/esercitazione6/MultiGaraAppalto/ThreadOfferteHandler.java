@@ -1,7 +1,7 @@
 package esercitazione6.MultiGaraAppalto;
-import java.io.IOException;
-import java.io.ObjectInputStream;
+import java.io.*;
 import java.net.*;
+
 public class ThreadOfferteHandler extends Thread{
     private final RegistroGare registro;
     private ServerSocket socket;
