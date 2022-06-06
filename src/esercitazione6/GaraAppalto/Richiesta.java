@@ -21,7 +21,7 @@ public class Richiesta implements Serializable {
 
     @Override
     public String toString(){
-        return "Richiesta{ descrizione= '" + descrizione + ", '\'', importoMassimo= " + importoMassimo + "}";
+        return "Richiesta{ descrizione= '" + descrizione + "',\n importoMassimo= " + importoMassimo + "}";
     }//toString
 
 }//Richiesta
