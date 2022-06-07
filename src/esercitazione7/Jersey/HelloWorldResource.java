@@ -1,4 +1,4 @@
-package esercitazione7;
+package esercitazione7.Jersey;
 /*
 @Path("/helloworld")
 public class HelloWorldResource {
