@@ -2,7 +2,7 @@ package esercitazione7.GestioneRubrica;
 import java.io.Serializable;
 /*
 public class Contact implements Serializable {
-    private long id;
+    private Long id;
     private String name;
     private String surname;
     private String address;
